@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Overworld.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/TheWall.unity
+    guid: 47820e1d5771ae042a84c8026bd97c28
+  - enabled: 1
+    path: Assets/Scenes/HangTough.unity
+    guid: 770e777bee7b1b94d8135a894cfdf53c
+  - enabled: 1
+    path: Assets/Scenes/Atlasphere.unity
+    guid: 69ab3d7e2f6f4a24991853ddd56835da
+  - enabled: 1
+    path: Assets/Scenes/Gym.unity
+    guid: 37901108f2b1fd7479efd99a7ac5dc12
+  m_configObjects: {}
